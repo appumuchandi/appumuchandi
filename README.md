@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I'm a 2nd-year Electronics & Communication Engineering student at **KLE College of Engineering & Technology, Chikodi** (CGPA: 8.5/10) passionate about **AI-powered application development**, **Python**, **data analysis**, and building full-stack products that solve real problems.
+I'm a 2nd-year Electronics & Communication Engineering student at **KLE College of Engineering & Technology, Chikodi** (CGPA: 8.6/10) passionate about **AI-powered application development**, **Python**, **data analysis**, and building full-stack products that solve real problems.
 
 From offline emergency AI platforms to farm management systems — I love turning ideas into working products. Currently levelling up in SQL, Data Structures, and ML beyond my coursework.
 
@@ -32,7 +32,7 @@ From offline emergency AI platforms to farm management systems — I love turnin
 
 
 ### 🔴 AXON-AI — Offline Emergency Intelligence Platform
-> *Microsoft Hackathon 2025 · Python · AI / ML*
+> *Microsoft Hackathon 2026 · Python · AI / ML*
 
 An offline-first AI coordination platform for disaster & medical emergencies. Operates without internet or cloud — engineered for resilience when infrastructure fails.
 - Built contextual AI guidance and SOS coordination workflows
@@ -54,13 +54,22 @@ A modern full-stack poultry farm management & egg ordering platform connecting f
 
 ---
 
+# Weather App 🌦️
+
+A simple and modern weather application built using HTML, CSS, and JavaScript.
+
+## Features
+- Search weather by city
+- Auto location detection
+- Real-time weather information
+---
+
 ### 🤖 AI-Based Smart Assistant
 > *Python · Prompt Engineering*
 
 A functional AI-powered assistant prototype focused on intelligent response generation and task automation using advanced prompt engineering techniques.
 
 ---
-
 ### 📊 Student Performance Analyser
 > *Python · Data Analysis*
 
@@ -84,11 +93,11 @@ A Python data analysis tool to evaluate and visualise student performance metric
 |---|---|---|
 | 🏅 Enterprise Design Thinking Practitioner | IBM | Mar 2026 |
 | 🏅 AI Literacy | IBM | Dec 2025 |
-| 🏅 Data Science Professional | Oracle | — |
+| 🏅 Data Science Professional | Oracle | Oct 2025 |
 | 🏅 Data Analytics Job Simulation | Deloitte Australia (Forage) | Sep 2025 |
 | 🏅 Cyber Job Simulation | Deloitte Australia (Forage) | Sep 2025 |
 | 🏅 Problem Solving (Basic) | HackerRank | Sep 2025 |
-| 🏅 Python (Basic) | HackerRank | — |
+| 🏅 Python (Basic) | HackerRank | Sep 2025 |
 
 ---
 
