@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I'm a 2nd-year Electronics & Communication Engineering student at **KLE College of Engineering & Technology, Chikodi** (CGPA: 8.6/10) passionate about **AI-powered application development**, **Python**, **data analysis**, and building full-stack products that solve real problems.
+I'm a 3nd-year Electronics & Communication Engineering student at **KLE College of Engineering & Technology, Chikodi** (CGPA: 8.6/10) passionate about **AI-powered application development**, **Python**, **data analysis**, and building full-stack products that solve real problems.
 
 From offline emergency AI platforms to farm management systems — I love turning ideas into working products. Currently levelling up in SQL, Data Structures, and ML beyond my coursework.
 
