@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Appu Muchchandi
 
-**ECE Student · AI Builder · Hackathon Enthusiast · Karnataka, India**
+**AI Engineer in the making · Full-Stack Builder · Hackathon Winner · Karnataka, India**
 
 ![Profile views](https://komarev.com/ghpvc/?username=appumuchandi&color=brightgreen)
 
@@ -8,9 +8,12 @@
 
 ## 🎓 About Me
 
-I'm a 3nd-year Electronics & Communication Engineering student at **KLE College of Engineering & Technology, Chikodi** (CGPA: 8.6/10) passionate about **AI-powered application development**, **Python**, **data analysis**, and building full-stack products that solve real problems.
+I'm a 3rd-year Electronics & Communication Engineering student at **KLE College of Engineering & Technology, Chikodi** (CGPA: 8.6/10, graduating 2028), focused on **AI/backend engineering** and full-stack products that solve real problems.
 
-From offline emergency AI platforms to farm management systems — I love turning ideas into working products. Currently levelling up in SQL, Data Structures, and ML beyond my coursework.
+I build things people actually use: a live ERP running my family's poultry farm, an AI fraud-investigation platform for payments, a crime-intelligence platform for the Karnataka State Police Datathon, and a credit-readiness tool for small Indian farmers. I ship fast with Claude and Cursor, then harden with tests, auth, and audit trails.
+
+🏆 **Winner (1st place), HackerEarth AI Innovation Arena (VibeCode Arena)**, highest project score
+🥇 **#1 on the VibeCode Arena FIFA Showdown 2026 national leaderboard**
 
 ---
 
@@ -18,72 +21,85 @@ From offline emergency AI platforms to farm management systems — I love turnin
 
 | Category | Skills |
 |---|---|
-| **Languages** | Python · C · MATLAB |
-| **AI / ML** | AI App Development · Prompt Engineering · Data Analysis |
-| **Web & App** | React · Next.js · Tailwind CSS · HTML/CSS · Vibe Codeing |
-| **Backend** | Firebase · Firestore · Cloud Functions |
-| **Payments** | UPI Integration · Razorpay |
-| **Tools** | Git · GitHub · VS Code |
-| **CS Concepts** | DSA · Statistics · Problem Solving |
+| **Languages** | Python · TypeScript · JavaScript · Java · C · MATLAB |
+| **AI / ML** | LLM apps · Tool-calling agents · RAG & embeddings (pgvector) · Prompt Engineering · NVIDIA Nemotron · Gemini · CatBoost |
+| **Backend** | FastAPI · PostgreSQL · SQLAlchemy · SQLite · JWT / RBAC · Firebase |
+| **Frontend** | React · Next.js · Tailwind CSS · ShadCN UI · Vite |
+| **Tools** | Git · GitHub · Docker · VS Code · Cursor · Claude |
+| **CS Concepts** | DSA · Statistics · System Design · Problem Solving |
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
+### 🐔 PoultryManager & Happy Hens Hub: live farm ERP
+> *Next.js 15 · TypeScript · Tailwind · ShadCN UI · SQLite · Resend*
 
-### 🔴 AXON-AI — Offline Emergency Intelligence Platform
-> *Microsoft Hackathon 2026 · Python · AI / ML*
-
-An offline-first AI coordination platform for disaster & medical emergencies. Operates without internet or cloud — engineered for resilience when infrastructure fails.
-- Built contextual AI guidance and SOS coordination workflows
-- Integrated emergency automation for operational continuity
-
----
-### 🐔 Happy Hens Hub — Poultry Farm Management Platform
-> *React · Next.js · Tailwind CSS · Firebase · UPI / Razorpay*
-
-A modern full-stack poultry farm management & egg ordering platform connecting farms directly with customers.
-
-- 🏡 Public customer portal with real-time stock & pricing
-- 💳 UPI / COD payment support with owner-configurable QR codes
-- 📦 Order management with accept/reject workflows
-- 📊 Farm dashboard for daily stock, price & sales tracking
-- 📱 Fully responsive for mobile and desktop
-
-> *"From happy hens to happy homes."*
+A multi-branch poultry ERP, **running in production** on my family's farm.
+- Role-based dashboards for managers and workers, egg production and feed/inventory tracking, consolidated P&L and analytics
+- Public customer storefront with no-signin order requests and automated email notifications
+- 🔗 [Platform](https://poultrymanager.in/) · [Live farm deployment](https://happyhenshub.poultrymanager.in/) · [Read-only demo](https://poultrymanager.in/try-me)
 
 ---
 
-# Weather App 🌦️
+### 🛡️ RISK-ERA: AI Fraud Investigation Platform
+> *Razorpay AI Buildathon · FastAPI · PostgreSQL · React + TypeScript · NVIDIA Nemotron*
 
-A simple and modern weather application built using HTML, CSS, and JavaScript.
-
-## Features
-- Search weather by city
-- Auto location detection
-- Real-time weather information
----
-
-### 🤖 AI-Based Smart Assistant
-> *Python · Prompt Engineering*
-
-A functional AI-powered assistant prototype focused on intelligent response generation and task automation using advanced prompt engineering techniques.
-
----
-### 📊 Student Performance Analyser
-> *Python · Data Analysis*
-
-A Python data analysis tool to evaluate and visualise student performance metrics using conditional logic, data aggregation, and grade computation.
+- Nemotron-powered investigator restricted to **controlled, auditable tool calls**
+- JWT auth with RBAC and a **SHA-256 hash-chained audit trail**
+- 🔗 [Repo](https://github.com/appumuchandi/RISK_ERA)
 
 ---
 
-## 🏆 Hackathons & Activities
+### 🚔 Crime Nexus AI: Crime Intelligence Platform
+> *KSP Datathon 2026 · FastAPI · PostgreSQL · React · Recharts · React Flow · Leaflet*
 
-- 🥇 **Microsoft Hackathon 2025** — Built AXON-AI; end-to-end AI system design under competition constraints
-- ⚡ **SMPL AI Hiring Hackathon** — Applied Python & prompt engineering in a real-world AI challenge
-- 🌍 **WWT Global Tech Challenge** — Strengthened problem-solving and solution design
-- 💻 **TCS HackQuest** — Competitive programming and algorithm design
-- 🎤 **College Poster Presentation** — Presented technical research at a college-level event
+Solo-built case-management and investigation platform: FIR management, person intelligence, criminal network graph, crime map, analytics, and a data-grounded AI crime assistant.
+- 🔗 [Repo](https://github.com/appumuchandi/crime-nexus)
+
+---
+
+### 🌾 Farm Credit Readiness: AI Fintech for Farmers
+> *VibeCode Arena · React · FastAPI · SQLite*
+
+A 0-100 credit-readiness score for small and marginal Indian farmers, with a What-If simulator, AI finance assistant, and PDF reports.
+
+---
+
+### 🅿️ ParkSense AI: Parking Intelligence Platform
+> *Gridlock Hackathon 2.0 (Flipkart) · Python · Data Analysis*
+
+Analysed **298,445 traffic violation records** across 51 enforcement zones to build a hotspot-detection and Enforcement Priority Index (EPI), surfacing 17 critical or high-priority zones.
+- 🔗 [Repo](https://github.com/appumuchandi/ParkSense-AI)
+
+---
+
+### 🔴 AXON-AI: Offline Emergency Intelligence Platform
+> *Microsoft Hackathon 2025 · Python · AI / ML*
+
+An offline-first agentic AI system for disaster and medical emergencies, built in a 48-hour sprint. Contextual guidance and SOS coordination that work without internet or cloud.
+- 🔗 [Repo](https://github.com/appumuchandi/Axon-AI)
+
+---
+
+### 🧩 More Builds
+- **BenchMate**: electronics component inventory manager for engineering students (rank 1 on the Arena leaderboard)
+- **UdhaarBook**: mobile-first credit ledger for kirana shop owners
+- **WarrantyVault**: warranty and AMC tracker with expiry reminders
+- **24/7 Intelligent Code Reviewer**: FastAPI + pgvector review engine with weighted rubric scoring and diff-aware "Growth Delta" (Code Kitchen qualifier)
+- **Smart Gym Management** (MERN, QR attendance), **QuickBite** (Next.js + Firebase), **Axon Space** (cloud storage MVP)
+
+---
+
+## 🏆 Hackathons & Achievements
+
+- 🥇 **HackerEarth AI Innovation Arena (VibeCode Arena)**: 1st place, highest project score
+- 🥇 **VibeCode Arena FIFA Showdown 2026**: #1 on the national leaderboard
+- 💳 **Razorpay AI Buildathon**: built and submitted RISK-ERA
+- 🚔 **KSP Datathon 2026**: solo-built Crime Nexus AI
+- 🛒 **Gridlock Hackathon 2.0 (Flipkart)**: ParkSense AI
+- 🍳 **Code Kitchen**: qualified for Auditions
+- 💻 **Microsoft Hackathon 2025** · **SMPL AI Hiring Hackathon** · **WWT Global Tech Challenge** · **TCS HackQuest**
 
 ---
 
@@ -101,11 +117,11 @@ A Python data analysis tool to evaluate and visualise student performance metric
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-- 🔭 Building more AI-powered open source projects
-- 🌱 Self-learning SQL, Data Structures & ML beyond coursework
-- 💡 Looking for engineering internships in AI-native product teams
+- 🔭 Building AI-native products with tool-calling agents, RAG, and auditable pipelines
+- 🧠 Sharpening DSA and system design alongside ML and SQL
+- 💡 Looking for **AI Engineer / Software Engineering internships** on AI-native product teams
 - 🤝 Open to collaborating on hackathons and Python / AI / web projects
 
 ---
