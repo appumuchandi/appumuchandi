@@ -108,6 +108,7 @@ An offline-first agentic AI system for disaster and medical emergencies, built i
 | Certification | Issuer | Date |
 |---|---|---|
 | 🏅 Microsoft Certified: Fabric Data Engineer Associate | Microsoft | Sep 2026 |
+| 🏅 Software Engineering Job Simulation | Hewlett Packard Enterprise (Forage) | Sep 2026 |
 | 🏅 Enterprise Design Thinking Practitioner | IBM | Mar 2026 |
 | 🏅 AI Literacy | IBM | Dec 2025 |
 | 🏅 Data Science Professional | Oracle | Oct 2025 |
