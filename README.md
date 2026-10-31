@@ -12,7 +12,7 @@ I'm a 3rd-year Electronics & Communication Engineering student at **KLE College 
 
 I build things people actually use: a live ERP running my family's poultry farm, an AI fraud-investigation platform for payments, a crime-intelligence platform for the Karnataka State Police Datathon, and a credit-readiness tool for small Indian farmers. I ship fast with Claude and Cursor, then harden with tests, auth, and audit trails.
 
-🏆 **Winner (1st place), HackerEarth AI Innovation Arena (VibeCode Arena)**, highest project score
+🏆 **Winner (1st place), HackerEarth AI Innovation Arena (VibeCode Arena)**, highest project score.<br>
 🥇 **#1 on the VibeCode Arena FIFA Showdown 2026 national leaderboard**
 
 ---
